@@ -2,7 +2,6 @@ package com.apenasolinco.leetcodae;
 
 import java.util.HashMap;
 import java.util.LinkedList;
-import java.util.Queue;
 
 /**
  * <a href="https://leetcode.com/problems/valid-parentheses/description/">Leet 15: Valid Parentheses</a>

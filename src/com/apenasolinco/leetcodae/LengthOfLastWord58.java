@@ -1,5 +1,8 @@
 package com.apenasolinco.leetcodae;
 
+/**
+ * <a href="https://leetcode.com/problems/length-of-last-word/description/">Leet 58: Length of Last Word</a>
+ */
 public class LengthOfLastWord58 {
     public static void main(String[] args) {
         LengthOfLastWord58 l58 = new LengthOfLastWord58();

@@ -2,6 +2,9 @@ package com.apenasolinco.leetcodae;
 
 import java.util.Arrays;
 
+/**
+ * <a href="https://leetcode.com/problems/plus-one/">Leet 66: Plus One</a>
+ */
 public class PlusOne66 {
     public static void main(String[] args) {
         final PlusOne66 po66 = new PlusOne66();

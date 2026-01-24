@@ -1,5 +1,8 @@
 package com.apenasolinco.leetcodae;
 
+/**
+ * <a href="https://leetcode.com/problems/longest-palindromic-substring/">Leet 5: Longest Palindromic Substring</a>
+ */
 public class LongestPalindromicSubstring5 {
     public static void main(String[] args) {
         LongestPalindromicSubstring5 lps5 = new LongestPalindromicSubstring5();
