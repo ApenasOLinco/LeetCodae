@@ -3,9 +3,9 @@ package com.apenasolinco.leetcodae;
 /**
  * <a href="https://leetcode.com/problems/longest-common-prefix/description/">Leet 14: Longest common prefix</a>
  */
-public class LongestPrefix14 {
+public class LongestPrefix0014 {
     public static void main(String[] args) {
-        LongestPrefix14 lp14 = new LongestPrefix14();
+        LongestPrefix0014 lp14 = new LongestPrefix0014();
 
         System.out.println(lp14.longestCommonPrefix(new String[]{"flower", "flow", "flight"}));
         System.out.println(lp14.longestCommonPrefix(new String[]{"dog", "racecar", "car"}));

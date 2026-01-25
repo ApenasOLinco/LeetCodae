@@ -5,9 +5,9 @@ import java.util.Arrays;
 /**
  * <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Leet 26: Remove Duplicates From Sorted Array</a>
  */
-public class RemoveDuplicatesFromSortedArray26 {
+public class RemoveDuplicatesFromSortedArray0026 {
     public static void main(String[] args) {
-        final RemoveDuplicatesFromSortedArray26 rdfst26 = new RemoveDuplicatesFromSortedArray26();
+        final RemoveDuplicatesFromSortedArray0026 rdfst26 = new RemoveDuplicatesFromSortedArray0026();
 
         // Case 1
         int[] nums = {1, 2, 3, 3, 3, 3, 4, 5, 6, 7, 10, 10, 10};

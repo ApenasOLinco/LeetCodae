@@ -5,9 +5,9 @@ import java.util.Arrays;
 /**
  * <a href="https://leetcode.com/problems/plus-one/">Leet 66: Plus One</a>
  */
-public class PlusOne66 {
+public class PlusOne0066 {
     public static void main(String[] args) {
-        final PlusOne66 po66 = new PlusOne66();
+        final PlusOne0066 po66 = new PlusOne0066();
 
         // Expected result: [ 1, 2, 4 ]
         printResult(po66.plusOne(new int[]{1, 2, 3}));

@@ -3,9 +3,9 @@ package com.apenasolinco.leetcodae;
 /**
  * <a href="https://leetcode.com/problems/search-insert-position/">Leet 35: Search Insert Position</a>
  */
-public class SearchInsertPosition35 {
+public class SearchInsertPosition0035 {
     public static void main(String[] args) {
-        SearchInsertPosition35 s35 = new SearchInsertPosition35();
+        SearchInsertPosition0035 s35 = new SearchInsertPosition0035();
 
         int[] nums;
         int target;

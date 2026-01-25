@@ -6,9 +6,9 @@ import java.util.HashMap;
 /**
  * <a href="https://leetcode.com/problems/roman-to-integer/description/">13. Roman to Integer</a>
  */
-public class RomanNums13 {
+public class RomanNums0013 {
     public static void main(String[] args) {
-        final RomanNums13 rn13 = new RomanNums13();
+        final RomanNums0013 rn13 = new RomanNums0013();
         System.out.println(rn13.romanToInt("I"));
         System.out.println(rn13.romanToInt("V"));
         System.out.println(rn13.romanToInt("X"));

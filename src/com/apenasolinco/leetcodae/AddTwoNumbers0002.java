@@ -3,9 +3,9 @@ package com.apenasolinco.leetcodae;
 /**
  * <a href="https://leetcode.com/problems/add-two-numbers/description/">Leet 2: Add Two Numbers</a>
  */
-public class AddTwoNumbers2 {
+public class AddTwoNumbers0002 {
     public static void main(String[] args) {
-        AddTwoNumbers2 atn2 = new AddTwoNumbers2();
+        AddTwoNumbers0002 atn2 = new AddTwoNumbers0002();
         ListNode l1, l2;
         ListNode result;
 

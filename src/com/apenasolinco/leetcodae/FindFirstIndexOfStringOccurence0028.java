@@ -5,9 +5,9 @@ package com.apenasolinco.leetcodae;
  * Leet 28: Find the Index of the First Occurrence in a String
  * </a>
  */
-public class FindFirstIndexOfStringOccurence28 {
+public class FindFirstIndexOfStringOccurence0028 {
     public static void main(String[] args) {
-        FindFirstIndexOfStringOccurence28 f28 = new FindFirstIndexOfStringOccurence28();
+        FindFirstIndexOfStringOccurence0028 f28 = new FindFirstIndexOfStringOccurence0028();
         String needle, haystack;
 
         // Expected output = 0

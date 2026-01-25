@@ -6,9 +6,9 @@ import java.util.stream.Collectors;
 /**
  * <a href="https://leetcode.com/problems/remove-element/description/">Leet 27: Remove Element</a>
  */
-public class RemoveElement27 {
+public class RemoveElement0027 {
     public static void main(String[] args) {
-        RemoveElement27 re27 = new RemoveElement27();
+        RemoveElement0027 re27 = new RemoveElement0027();
         int[] nums;
         int val;
         int k;

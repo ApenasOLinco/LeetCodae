@@ -6,9 +6,9 @@ import java.util.LinkedList;
 /**
  * <a href="https://leetcode.com/problems/valid-parentheses/description/">Leet 15: Valid Parentheses</a>
  */
-public class ValidParentheses15 {
+public class ValidParentheses0015 {
     public static void main(String[] args) {
-        ValidParentheses15 vp15 = new ValidParentheses15();
+        ValidParentheses0015 vp15 = new ValidParentheses0015();
 
         System.out.println(vp15.isValid("()"));
         System.out.println(vp15.isValid("()[]{}"));

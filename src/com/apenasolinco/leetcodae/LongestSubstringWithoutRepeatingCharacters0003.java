@@ -6,9 +6,9 @@ import java.util.Set;
 /**
  * <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Leet 3: Longest Substring Without Repeating Characters</a>
  */
-public class LongestSubstringWithoutRepeatingCharacters3 {
+public class LongestSubstringWithoutRepeatingCharacters0003 {
     public static void main(String[] args) {
-        LongestSubstringWithoutRepeatingCharacters3 ls3 = new LongestSubstringWithoutRepeatingCharacters3();
+        LongestSubstringWithoutRepeatingCharacters0003 ls3 = new LongestSubstringWithoutRepeatingCharacters0003();
         String s;
 
         // Expected result: 3

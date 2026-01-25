@@ -1,8 +1,8 @@
 package com.apenasolinco.leetcodae;
 
-public class SrqtX69 {
+public class SrqtX0069 {
     public static void main(String[] args) {
-        final SrqtX69 sr = new SrqtX69();
+        final SrqtX0069 sr = new SrqtX0069();
 
         // Expected result: 2
         System.out.println(sr.mySqrt(4));

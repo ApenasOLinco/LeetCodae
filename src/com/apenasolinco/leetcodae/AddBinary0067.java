@@ -1,8 +1,8 @@
 package com.apenasolinco.leetcodae;
 
-public class AddBinary67 {
+public class AddBinary0067 {
     public static void main(String[] args) {
-        final AddBinary67 ab67 = new AddBinary67();
+        final AddBinary0067 ab67 = new AddBinary0067();
 
         // Expected result: 100
         System.out.println(ab67.addBinary("11", "1"));
